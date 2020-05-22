@@ -236,3 +236,10 @@ tableModel.sortBy('id','desc');
 ```
 tableModel.limit(0,10);
 ```
+
+###### 注意事项:
+如果你想使用++或者--方法，请务必确保你的数据源为Number类型，否则会跳过执行方法 
+
+
+###### welcome
+欢迎更多的开发者参与项目开发，有问题请提issue
